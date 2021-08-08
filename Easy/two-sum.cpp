@@ -41,7 +41,7 @@ using namespace std;
 
 
 void solve(){
-  
+  cout<<ansl;
 }
 
 int main(){
