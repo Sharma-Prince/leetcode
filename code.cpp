@@ -11,7 +11,7 @@ using namespace std;
 #define vvi vector<vi>
 #define vl vector<long long>
 #define vvl vector<vl>
-#define vll vector<pll>oifkhjikj9jijhhjkjjkk 
+#define vll vector<pll> 
 #define vii vector<ii>
 #define vvii vector<vii>
 #define tri pair<int,ii>
@@ -41,7 +41,12 @@ using namespace std;
 
 
 void solve(){
-  
+  int n;
+  cin>>n;
+  vector<string> ans;
+  for(auto u: ans){
+    cout<<u<<" ";
+  }
 }
 
 int main(){
